@@ -1,0 +1,2 @@
+# arrayci
+codeigniter array
